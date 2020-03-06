@@ -1,0 +1,856 @@
+<!DOCTYPE HTML>
+<html class="full">
+<head>
+	<meta name='description' content='pixel vixen'/>
+<meta name='keywords' content='cool'/>
+<link rel='image_src' href='https://www.botlibre.com/avatars/a27517410.jpg'>
+<meta property='og:image' content='https://www.botlibre.com/avatars/a27517410.jpg' />
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:title' content='ZoeOzone'>
+<meta name='twitter:description' content='pixel vixen'>
+<meta name='twitter:image' content='https://www.botlibre.com/avatars/a27517410.jpg' />
+
+	
+
+
+
+
+
+
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	<meta name="author" content="Paphus Solutions Inc."/>
+	<meta name="google-translate-customization" content="3bedbc8a7b114cf5-6f0956cba2f8fe0f-g919b425718ae0e0e-10"></meta>
+	
+		<meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+	
+	<link rel="image_src" href="https://www.botlibre.com/images/logo.png">
+	<meta property="og:image" content="https://www.botlibre.com/images/logo.png" />
+	<link rel="shortcut icon" href="favicon.ico">
+	
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,300,700,800" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="scripts/fontawesome/css/all.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="css/mainstyle.css" rel="stylesheet" media="screen">
+	
+	<link rel="stylesheet" href="css/commonstyle.css" type="text/css">
+	<link rel="stylesheet" href="css/extensions.css" type="text/css">
+	
+	
+		<link rel="stylesheet" href="css/fstyle.css" type="text/css">
+	
+	<script type="text/javascript" src="scripts/sdk.js"></script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		ga('create', 'UA-45086519-1', 'botlibre.com');
+		ga('send', 'pageview');	
+	</script>
+
+	<link rel="stylesheet" href="scripts/jquery/jquery-ui.min.css">
+	<script src="scripts/jquery/jquery.js"></script>
+	<script src="scripts/jquery/jquery-ui.min.js"></script>
+	<script src="scripts/webui.js"></script>
+	<script>	$(function() {	$( "#accordion" ).accordion();	});	$(function() {	$( "#tabs" ).tabs();	});	</script>
+<!--script src="js/jquery.js"></script-->
+
+	<link rel="stylesheet" href="css/game-sdk.css" type="text/css">
+	<script type="text/javascript" src="scripts/game-sdk.js"></script>
+	<meta name='description' content='pixel vixen'/>
+<meta name='keywords' content='cool'/>
+<link rel='image_src' href='https://www.botlibre.com/avatars/a27517410.jpg'>
+<meta property='og:image' content='https://www.botlibre.com/avatars/a27517410.jpg' />
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:title' content='ZoeOzone'>
+<meta name='twitter:description' content='pixel vixen'>
+<meta name='twitter:image' content='https://www.botlibre.com/avatars/a27517410.jpg' />
+
+	<title>ZoeOzone Chat </title>
+	<link rel='stylesheet' href='https://www.botlibre.com/css/chatlog.css' type='text/css'>
+
+	
+		<link rel="stylesheet" href="scripts/jquery/jquery-ui.min.css">
+	<script src="scripts/jquery/jquery.js"></script>
+	<script src="scripts/jquery/jquery-ui.min.js"></script>
+	<script src="scripts/webui.js"></script>
+	<script>	$(function() {	$( "#accordion" ).accordion();	});	$(function() {	$( "#tabs" ).tabs();	});	</script>
+</head>
+
+	<body class="full" style="background-color: #fff;">
+	<table style="background-color: #fff;" class="botplatformframechat-div">
+	<tr><td>
+	
+	</td></tr>
+	<tr><td>
+	
+
+
+	<div id="microtopper" align=right style="background-color: #fff;">
+		<span>powered by <a href="http://www.botlibre.com" target="_blank">Bot Libre</a></span>
+	</div>
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+	</td></tr>
+	<tr><td>
+		
+			<span class="dropt">
+				<h1>ZoeOzone</h1>
+				<div>
+					<p class="help">
+						pixel vixen
+					</p>
+				</div>
+			</span>
+		
+	</td></tr>
+	<tr height="100%"><td valign="top">
+	<table id="botplatformframetable-scroll" cellspacing="8" width="100%">
+	<tr height="100%">
+	<td align="left" valign="top">
+		
+		<div id="botplatformframeavatar-div" class="botplatformframeavatar-div">
+			<div id="botplatformframeavatar-image-div">
+				<img id="botplatformframeavatar" class="botplatformframeavatar"/>
+			</div>
+			<div id="botplatformframeavatar-video-div" class="botplatformframeavatar-video-div"
+						>
+				<video muted='true' id="botplatformframeavatar-video" class="botplatformframeavatar-video" preload="auto">
+					Video format not supported by your browser (try Chrome)
+				</video>
+			</div>
+			<div id="botplatformframeavatar-canvas-div" class="botplatformframeavatar-canvas-div" style="display:none;">
+				<canvas id="botplatformframeavatar-canvas" class="botplatformframeavatar-canvas">
+					Canvas not supported by your browser (try Chrome)
+				</canvas>
+			</div>
+			<div id="botplatformframeavatar-game-div" class="avatar-game-div" style="display:none">
+		</div>
+		
+			<br/>
+		
+		<span id="botplatformframeavatar-status" class="botplatformframemenu"></span>
+	</td>
+	<td valign="top" align="left" class="botplatformframebot-scroller" width="100%">
+		<div id="botplatformframescroller" class="botplatformframescroller">
+		<table id="botplatformframeconsole" width="100%" cellspacing="2">
+		</table>
+		</div>
+	</td>
+	</tr>
+	</table>
+	<!-- % } % -->
+	</td></tr>
+	<tr><td>
+	<div id="botplatformframebubble-div" class="botplatformframebubble-div">
+		
+			<div id="botplatformframebubble" class="botplatformframebubble">
+				<div id="botplatformframebubble-text" class="botplatformframebubble-text">
+					<span id="botplatformframeresponse" class="botplatformframeresponse"></span><br>
+				</div>
+			</div>
+		
+	</div>
+	<form class="message" onsubmit="SDK.initAudio(); web.sendMessage(); return false;">
+		<table style="width:100%;">
+		<tr style="width:100%;">
+			<td style="width:100%;"><input id="botplatformframechat" class="botplatformframechat-input" placeholder="You say" type="text" name="input" autofocus x-webkit-speech /></td>
+			<td align="left"><input id="sendicon" class="sendicon" type="submit" name="submit" value=""/><br/></td>
+		</tr>
+		</table>
+		
+			<span class="botplatformmenu">
+			<div style="inline-block;position:relative">
+				<span class="dropt">
+					<div style="text-align:left;bottom:32px">
+						<table>
+							
+								<tr class="botplatformmenuitem">
+									<td><img class='botplatformmenu' src='images/language.svg' title='Translate to and from your selected language'>
+									 <select id='chooselanguage'>
+										<option value='none'>Choose Language</option>
+										<option value='en'>English</option>
+										<option value='zh'>Chinese</option>
+										<option value='es'>Spanish</option>
+										<option value='pt'>Portuguese</option>
+										<option value='de'>German</option>
+										<option value='fr'>French</option>
+										<option value='ja'>Japanese</option>
+										<option value='ar'>Arabic</option>
+										<option value='none'>None</option>
+										<option value='none'></option>
+										<option value='af'>Afrikaans</option>
+										<option value='sq'>Albanian</option>
+										<option value='hy'>Armenian</option>
+										<option value='az'>Azerbaijani</option>
+										<option value='ba'>Bashkir</option>
+										<option value='eu'>Basque</option>
+										<option value='be'>Belarusian</option>
+										<option value='bn'>Bengali</option>
+										<option value='bs'>Bosnian</option>
+										<option value='bg'>Bulgarian</option>
+										<option value='ca'>Catalan</option>
+										<option value='za'>Chinese</option>
+										<option value='hr'>Croatian</option>
+										<option value='cs'>Czech</option>
+										<option value='da'>Danish</option>
+										<option value='nl'>Dutch</option>
+										<option value='en'>English</option>
+										<option value='et'>Estonian</option>
+										<option value='fi'>Finnish</option>
+										<option value='fr'>French</option>
+										<option value='gl'>Galician</option>
+										<option value='ka'>Georgian</option>
+										<option value='de'>German</option>
+										<option value='gu'>Gujarati</option>
+										<option value='ht'>Haitian</option>
+										<option value='he'>Hebrew</option>
+										<option value='hi'>Hindi</option>
+										<option value='hu'>Hungarian</option>
+										<option value='id'>Indonesian</option>
+										<option value='ga'>Irish</option>
+										<option value='it'>Italian</option>
+										<option value='ja'>Japanese</option>
+										<option value='kn'>Kannada</option>
+										<option value='kk'>Kazakh</option>
+										<option value='ky'>Kirghiz</option>
+										<option value='ko'>Korean</option>
+										<option value='la'>Latin</option>
+										<option value='lv'>Latvian</option>
+										<option value='lt'>Lithuanian</option>
+										<option value='mk'>Macedonian</option>
+										<option value='mg'>Malagasy</option>
+										<option value='ms'>Malay</option>
+										<option value='mt'>Maltese</option>
+										<option value='mn'>Mongolian</option>
+										<option value='no'>Norwegian</option>
+										<option value='fa'>Persian</option>
+										<option value='pl'>Polish</option>
+										<option value='pt'>Portuguese</option>
+										<option value='pa'>Punjabi</option>
+										<option value='ro'>Romanian</option>
+										<option value='ru'>Russian</option>
+										<option value='sr'>Serbian</option>
+										<option value='si'>Sinhalese</option>
+										<option value='sk'>Slovak</option>
+										<option value='es'>Spanish</option>
+										<option value='sw'>Swahili</option>
+										<option value='sv'>Swedish</option>
+										<option value='tl'>Tagalog</option>
+										<option value='tg'>Tajik</option>
+										<option value='ta'>Tamil</option>
+										<option value='tt'>Tatar</option>
+										<option value='th'>Thai</option>
+										<option value='tr'>Turkish</option>
+										<option value='uk'>Ukrainian</option>
+										<option value='ur'>Urdu</option>
+										<option value='uz'>Uzbek</option>
+										<option value='cy'>Welsh</option>
+								  	</select>
+								</td>
+								</tr>
+							
+							
+							
+							
+								<tr class="botplatformmenuitem">
+									<td><a class="botplatformmenuitem" onClick="return toggleSpeak();" href="#" title="Enable speech (speech requires an HTML5 audio supporting browser, such as Chrome or Firefox)">
+										<img id="speak2" class="botplatformmenu" src="images/sound.svg"> Speech</a>
+									</td>
+								</tr>
+								<tr class="botplatformmenuitem">
+									<td><a class="botplatformmenuitem" onClick="return toggleListen();" href="#" title="Enable speech recognition (browser must support HTML5 speech API, such as Chrome)">
+										<img id="listen2" class="botplatformmenu" src="images/micoff.svg"> Speech Recognition</a>
+									</td>
+								</tr>
+							
+							
+								
+									<tr class="botplatformmenuitem">
+										<td><a class="botplatformmenuitem" onClick="return web.sendImage();" href="#" title="Upload and resize an image to send to the bot">
+											<img id="upload-image" class="botplatformmenu" src="images/image.svg"> Upload image</a>
+										</td>
+									</tr>
+									<tr class="botplatformmenuitem">
+										<td><a class="botplatformmenuitem" onClick="return web.sendAttachment();" href="#" title="Upload a file or full size image to send to the bot">
+											<img id="upload-file" class="botplatformmenu" src="images/attach.svg"> Upload file</a>
+										</td>
+									</tr>
+								
+							
+							
+							
+							
+							<tr id="botplatformframeshowChatLogRow" class="botplatformmenuitem">
+								<td><a id="botplatformframeshowChatLog" class="botplatformmenuitem" onClick="return web.showChatLog();" href="#">
+									<img class="botplatformmenu" src="images/chat_log.svg" title="Show Chat Log"> Chat Log</a>
+								</td>
+							</tr>
+							<tr id="botplatformframeshowAvatarRow" class="botplatformmenuitem" style="display:none;">
+								<td><a id="botplatformframeshowAvatar" class="botplatformmenuitem" onClick="return web.showAvatar();" href="#">
+									<img class="botplatformmenu" src="images/avatar-icon.png" title="Show Avatar"> Avatar</a>
+								</td>
+							</tr>
+							<tr class="botplatformmenuitem">
+								<td><a class="botplatformmenuitem" onClick="web.exit();" href="chat?disconnect">
+									<img class="botplatformmenu" src="images/logout.svg" title="Exit chat"> Disconnect</a>
+								</td>
+							</tr>		
+						</table>
+					</div>
+					<img id="menu" class="toolbar" src="images/menu.png">
+					
+						<img id="language" class="toolbar" src="images/language.svg">
+					
+				</span>
+				
+					<a onClick="return toggleSpeak();" href="#" title="Enable speech (speech requires an HTML5 audio supporting browser, such as Chrome or Firefox)"><img id="speak" class="toolbar" src="images/sound.svg"></a>
+					<a onClick="return toggleListen();" href="#" title="Enable speech recognition (browser must support HTML5 speech API, such as Chrome)"><img id="listen" class="toolbar" src="images/micoff.svg"></a>
+				
+				
+					
+						<a onClick="return web.sendImage();" href="#" title="Upload and resize an image to send to the bot"><img id="upload-image" class="toolbar" src="images/image.svg"></a>
+						<a onClick="return web.sendAttachment();" href="#" title="Upload a file to send to the bot"><img id="upload-file" class="toolbar" src="images/attach.svg"></a>
+					
+				
+				
+				
+				
+				
+				<a id="botplatformframeshowChatLogButton" onClick="return web.showChatLog();" href="#"><img class="toolbar" src="images/chat_log.svg" title="Show Chat Log"></a>
+				<a id="botplatformframeshowAvatarButton" onClick="return web.showAvatar();" href="#" style="display:none;"><img class="toolbar" src="images/avatar-icon.png" title="Show Avatar"></a>
+				<a onClick="web.exit();" href="chat?disconnect"><img class="toolbar" src="images/logout.svg" title="Exit chat"></a>
+			</div>
+			</span>
+		
+	</form>
+	<div><pre id="log" style="display:none"></pre></div>
+	
+	
+	
+	<div id='botplatformyandex' style="display:none"><br/><span>Powered by <a target='_blank' href='http://translate.yandex.com/'>Yandex.Translate</a></span></div>
+
+	
+	
+	<div id='dialog-flag' title='Flag' class='dialog'>
+		<form action='#' method='post' class='message'>
+			<input id='flag-confirm' type='checkbox' name='flagged' title='Do not misuse the flag option'>
+				Flag message as offensive
+			</input><br/>
+			<input id='flag-reason' name='flag-reason' type='text' placeholder='reason'/>
+		</form>
+	</div>
+
+	<script>
+		var flagMessage = function() {
+			if (document.getElementById('flag-confirm').checked && document.getElementById('flag-reason').value != '') {
+				$('#dialog-flag').dialog('close');
+				var offensive = document.getElementById('offensive');
+				offensive.checked = true;
+				web.sendMessage(document.getElementById('flag-reason').value);
+			} else {
+				SDK.showError("You must click 'Flag' and enter reason");
+			}
+			return false;
+		}
+		$('#flag-reason').keypress(function(event) {
+			if (event.keyCode == $.ui.keyCode.ENTER) {
+				flagMessage();
+				return false;
+			}
+		});
+		$(function() { $('#dialog-flag').dialog({
+				autoOpen: false,
+				modal: true,
+				buttons: [
+					{
+						text: "Flag",
+						click: function() {
+							flagMessage();
+						},
+						class: "okbutton"
+					},
+					{
+						text: "Cancel",
+						click: function() {
+							$( this ).dialog( "close" );
+						}
+					}
+				]}); });
+	</script>
+	
+	<div id='dialog-correct' title='Correction' class='dialog'>
+		<form action='#' method='post' class='message'>
+			Enter what the bot should have said:<br/>
+			<input id='correct-message' name='correction-message' type='text' placeholder='correction'/>
+		</form>
+	</div>
+
+	<script>
+		var correctMessage = function() {
+			if (document.getElementById('correct-message').value != '') {
+				$('#dialog-correct').dialog('close');
+				var correction = document.getElementById('correction');
+				correction.checked = true;
+				web.sendMessage(document.getElementById('correct-message').value);
+			} else {
+				SDK.showError("You must enter correction");
+			}
+			return false;
+		}
+		$('#correct-message').keypress(function(event) {
+			if (event.keyCode == $.ui.keyCode.ENTER) {
+				correctMessage();
+				return false;
+			}
+		});
+		$(function() { $('#dialog-correct').dialog({
+				autoOpen: false,
+				modal: true,
+				buttons: [
+							{
+								text: "Correct",
+								click: function() {
+									correctMessage();
+								},
+								class: "okbutton"
+							},
+							{
+								text: "Cancel",
+								click: function() {
+									$( this ).dialog( "close" );
+								}
+							}
+						]}); });
+	</script>
+
+	
+	<script type="text/javascript">
+		
+			
+				SDK.applicationId = "2736860856965554164";
+			
+		
+		
+		SDK.lang = 'en';
+		var sdk = new SDKConnection();
+		var user = new UserConfig();
+		
+		var web = new WebChatbotListener();
+		web.connection = sdk;
+		web.instance = "15398335";
+		web.instanceName = "ZoeOzone";
+		web.userName = "You";
+		web.contactInfo = "";
+		var isEmbedded = true;
+		web.bubble = true;
+		web.prefix = "botplatformframe";
+		
+		web.userThumb['avatar'] = 'images/user.png';
+		web.botThumb['name'] = "ZoeOzone";
+		web.botThumb['avatar'] = 'avatars/a27517410.jpg';
+		web.avatar = true;
+		web.chatLog = true;
+		web.avatarExpandable = false;
+		web.greeting = "";
+		web.speak = true;
+		web.nativeVoice = false;
+		web.nativeVoiceName = "";
+		
+		
+		
+		web.lang = "en";
+		
+		
+		
+		
+		
+		var first = true;
+		web.onresponse = function(message) {
+			var element = document.getElementById('correction');
+			if (element != null) {
+				element.checked = false;
+			}
+			element = document.getElementById('offensive');
+			if (element != null) {
+				element.checked = false;
+			}
+			if (first) {
+				first = false;
+				var settings = new ChatSettings();
+				settings.conversation = web.conversation;
+				sdk.chatSettings(settings, function(settings) {
+					// style.display = null does not work in IE...
+					if (settings.allowEmotes) {
+						var element = document.getElementById('emote-div');
+						if (element != null) {
+							element.style.display = "table-row";
+						}
+						element = document.getElementById('emote-div2');
+						if (element != null) {
+							element.style.display = "inline";
+						}
+						element = document.getElementById('action-div');
+						if (element != null) {
+							element.style.display = "table-row";
+						}
+					}
+					if (settings.allowCorrection) {
+						var element = document.getElementById('correction-div');
+						if (element != null) {
+							element.style.display = "table-row";
+						}
+						element = document.getElementById('correction-div2');
+						if (element != null) {
+							element.style.display = "inline";
+						}
+					}
+					if (settings.allowLearning) {
+						var element = document.getElementById('learning-div');
+						if (element != null) {
+							element.style.display = "table-row";
+						}
+						element = document.getElementById('learning');
+						if (element != null) {
+							element.style.display = "inline-block";
+							element.checked = settings.learning;
+						}
+					}
+					if (settings.learning) {
+						element = document.getElementById('learning-warning');
+						if (element != null) {
+							element.style.display = "block";
+						}
+					}
+				});
+			}
+		}
+		if (web.avatar && web.chatLog) {
+			document.getElementById(web.prefix + 'avatar-div').style.display = "inline-block";
+			if (window.innerWidth < 480) {
+				document.getElementById(web.prefix + 'scroller').style.display = "none";
+				document.getElementById(web.prefix + 'bubble-div').style.display = "block";
+			} else {
+				document.getElementById(web.prefix + 'scroller').style.display = "inline-block";
+				document.getElementById(web.prefix + 'bubble-div').style.display = "none";
+			}
+		} else if (web.avatar && !web.chatLog) {
+			var chatLogRow = document.getElementById(web.prefix + "showChatLogRow");
+			var chatLogButtonDiv = document.getElementById(web.prefix + "showChatLogButton");
+			if (chatLogRow != null) {
+				chatLogRow.style.display = "none";
+			}
+			if (chatLogButtonDiv != null) {
+				chatLogButtonDiv.style.display = "none";
+			}
+			document.getElementById(web.prefix + 'avatar-div').style.display = "inline-block";
+			document.getElementById(web.prefix + 'scroller').style.display = "none";
+			document.getElementById(web.prefix + 'response').style.display = "inline";
+		} else if (!web.avatar && web.chatLog) {
+			var chatLogRow = document.getElementById(web.prefix + "showChatLogRow");
+			var chatLogButtonDiv = document.getElementById(web.prefix + "showChatLogButton");
+			if (chatLogRow != null) {
+				chatLogRow.style.display = "none";
+			}
+			if (chatLogButtonDiv != null) {
+				chatLogButtonDiv.style.display = "none";
+			}
+			var avatarRow = document.getElementById(web.prefix + "showAvatarRow");
+			var avatarButtonDiv = document.getElementById(web.prefix + "showAvatarButton");
+			if (avatarRow != null) {
+				avatarRow.style.display = "none";
+			}
+			if (avatarButtonDiv != null) {
+				avatarButtonDiv.style.display = "none";
+			}
+			document.getElementById(web.prefix + 'avatar-div').style.display = "none";
+			document.getElementById(web.prefix + 'scroller').style.display = "inline-block";
+			document.getElementById(web.prefix + 'bubble-div').style.display = "none";
+		} else {
+			var chatLogRow = document.getElementById(web.prefix + "showChatLogRow");
+			var chatLogButtonDiv = document.getElementById(web.prefix + "showChatLogButton");
+			if (chatLogRow != null) {
+				chatLogRow.style.display = "none";
+			}
+			if (chatLogButtonDiv != null) {
+				chatLogButtonDiv.style.display = "none";
+			}
+			document.getElementById(web.prefix + 'avatar-div').style.display = "none";
+			document.getElementById(web.prefix + 'scroller').style.display = "none";
+			document.getElementById(web.prefix + 'response').style.display = "inline";
+		}
+		
+		web.showChatLog = function() {
+			
+				document.getElementById(web.prefix + "showChatLogRow").style.display = "none";
+				document.getElementById(web.prefix + "showChatLogButton").style.display = "none";
+				document.getElementById(web.prefix + "showAvatarRow").style.display = "block";
+				document.getElementById(web.prefix + "showAvatarButton").style.display = "inline-block";
+			
+			document.getElementById(web.prefix + "avatar-div").style.display = "none";
+			document.getElementById(web.prefix + 'bubble-div').style.display = "none";
+			document.getElementById(web.prefix + 'scroller').style.display = "inline-block";
+			document.getElementById(web.prefix + "avatar-status").style.display = "none";
+		}
+		web.showAvatar  = function() {
+			
+				document.getElementById(web.prefix + "showChatLogRow").style.display = "block";
+				document.getElementById(web.prefix + "showChatLogButton").style.display = "inline-block";
+				document.getElementById(web.prefix + "showAvatarRow").style.display = "none";
+				document.getElementById(web.prefix + "showAvatarButton").style.display = "none";
+			
+			document.getElementById(web.prefix + "avatar-div").style.display = "initial";
+			if (web.hd) {
+				document.getElementById(web.prefix + 'scroller').style.display = "none";
+				document.getElementById(web.prefix + 'bubble-div').style.display = "block";
+			}
+			if (window.innerWidth < 480) {
+				document.getElementById(web.prefix + 'scroller').style.display = "none";
+				document.getElementById(web.prefix + 'bubble-div').style.display = "block";
+			}
+		} 
+
+		if (user.user != null) {
+			user = sdk.connect(user, function(user) {
+				web.greet();
+			});
+		} else {
+			web.greet();
+		}
+		window.onunload = function() {
+			web.exit();
+		}
+		var listen = false;
+		
+		SDK.registerSpeechRecognition(document.getElementById(web.prefix + 'chat'), document.getElementById('sendicon'));
+		
+		function toggleListen() {
+			listen = !listen;
+			if (listen) {
+				SDK.startSpeechRecognition();
+				document.getElementById('listen').src = "images/mic.svg";
+				document.getElementById('listen2').src = "images/mic.svg";
+			} else {
+				SDK.stopSpeechRecognition();
+				document.getElementById('listen').src = "images/micoff.svg";
+				document.getElementById('listen2').src = "images/micoff.svg";
+			}
+			return false;
+		}
+	
+		
+		function toggleSpeak() {
+			web.toggleSpeak();
+			if (web.speak) {
+				SDK.initAudio();
+				document.getElementById('speak').src = "images/sound.svg";
+				document.getElementById('speak2').src = "images/sound.svg";
+			} else {
+				document.getElementById('speak').src = "images/mute.svg";
+				document.getElementById('speak2').src = "images/mute.svg";
+			}
+			return false;
+		}
+		
+		function correction() {
+			$('#dialog-correct').dialog('open');
+			return false;
+		}
+		
+		function flag() {
+			$('#dialog-flag').dialog('open');
+			return false;
+		}
+
+		var langOrig = null;
+		var nativeVoiceOrig = null;
+		if (document.getElementById("chooselanguage") != null) {
+			document.getElementById("chooselanguage").addEventListener("change", function() {
+				if (nativeVoiceOrig == null && langOrig == null) {
+					langOrig = web.lang;
+					nativeVoiceOrig = web.nativeVoice;
+				}
+				var element = document.getElementById('chooselanguage');
+				web.lang = element.value;
+				var prefix = "botplatform";
+				if (web.lang != "none") {
+					document.getElementById(prefix + 'yandex').style.display = "inline";
+					web.nativeVoice = true;
+					web.translate = true;
+				} else {
+					document.getElementById(prefix + 'yandex').style.display = "none";
+					web.translate = false;
+					web.lang = langOrig;
+					web.nativeVoice = nativeVoiceOrig;
+				}
+			});
+		}
+	</script>
+	<script>
+		var prefix = "botplatformframe";
+		var scroller = document.getElementById(prefix + 'scroller');
+		var tableScroll = document.getElementById(prefix + 'table-scroll');
+		var avatar = document.getElementById(prefix +'avatar');
+		var avatarVideo = document.getElementById(prefix + 'avatar-video');
+		var avatarVideoDiv = document.getElementById(prefix + 'avatar-video-div');
+		var avatarCanvas = document.getElementById(prefix + 'avatar-canvas');
+		var avatarCanvasDiv = document.getElementById(prefix + 'avatar-canvas-div');
+		var avatarStatus = document.getElementById(prefix + 'avatar-status');
+		scroller.style.maxHeight = (tableScroll.parentNode.offsetHeight - 24) + "px";
+		var bubbleTextDiv = document.getElementById(prefix + "bubble-text");
+		
+		var reset = true;
+		var resize = function() {
+			scroller.style.maxHeight = "200px";
+			if (window.innerWidth >= 480 && web.chatLog) {
+				var scrollerDiv = document.getElementById(web.prefix + "scroller");
+				var bubbleDiv = document.getElementById(web.prefix + "bubble-div");
+				var chatLogButton = document.getElementById(web.prefix + "showChatLogButton");
+				if (web.hd && chatLogButton.style.display != "none") {
+					scrollerDiv.style.display = "none";
+					if (web.bubble) {
+						bubbleDiv.style.display = "block";
+					}
+				} else {
+					scrollerDiv.style.display = "inline-block";
+					bubbleDiv.style.display = "none";	
+				}
+				if (chatLogButton != null && chatLogButton.style.display === "none") {
+					document.getElementById(web.prefix + 'avatar-div').style.display = "none";
+				}
+			}
+			if (window.innerWidth < 480 && web.avatar && web.chatLog) {
+				if (bubbleTextDiv != null) {
+					bubbleTextDiv.style.maxHeight = "100px";
+				}
+				document.getElementById(web.prefix + 'avatar-div').style.display = "inline-block";
+				var bubbleDiv = document.getElementById(web.prefix + "bubble-div");
+				var bubble = document.getElementById(web.prefix + "bubble");
+				var chatLogButton = document.getElementById(web.prefix + "showChatLogButton");
+				if (chatLogButton.style.display != "none" && !web.hd) { // chat log button visible (viewing avatar)
+					if (bubble != null) {
+						bubble.style.display = "block";
+					}
+					document.getElementById(web.prefix + "scroller").style.display = "none";
+					bubbleDiv.style.display = "block";
+				}
+				else if (chatLogButton != null && chatLogButton.style.display === "none" && !web.hd) { // avatar button visible (viewing chat log)
+					document.getElementById(web.prefix + 'avatar-div').style.display = "none";
+					bubbleDiv.style.display = "none";
+				} else if (chatLogButton != null && chatLogButton.style.display != "none" && web.hd) { // chat log button visible (viewing avatar)
+					document.getElementById(web.prefix + 'avatar-div').style.display = "inline-block";
+					document.getElementById(web.prefix + "scroller").style.display = "none";
+					if (web.bubble) {
+						bubbleDiv.style.display = "block";
+					}
+				} else if (chatLogButton != null && chatLogButton.style.display === "none" && web.hd) { // avatar button visible (viewing chat log)
+					bubbleDiv.style.display = "none";
+					document.getElementById(web.prefix + 'avatar-div').style.display = "none";
+					document.getElementById(web.prefix + "scroller").style.display = "inline-block";
+
+				}
+			} else if (window.innerWidth < 480 && !web.avatar && web.chatLog) {
+				document.getElementById(web.prefix + "scroller").style.display = "inline-block";
+				document.getElementById(web.prefix + "bubble-div").style.display = "none";
+			} else if (window.innerWidth < 480 && web.avatar && !web.chatLog) {
+				document.getElementById(web.prefix + "bubble-div").style.display = "block";
+			}
+			if (bubbleTextDiv != null) {
+				var bubbleWidth = (tableScroll.parentNode.offsetWidth - 30) + "px";
+				bubbleTextDiv.style.overflowY = "auto";
+				bubbleTextDiv.style.overflowX = "hidden";
+				bubbleTextDiv.style.wordWrap = "break-word";
+				bubbleTextDiv.style.maxWidth = bubbleWidth;
+			}
+			
+				if (avatar.className == "avatar-big") {
+					avatar.style.height = "100px";
+					avatar.style.maxWidth = (tableScroll.parentNode.offsetWidth - 24) + "px";
+					if (avatarCanvasDiv.style.display != "none") {
+						avatarVideo.style.height = "100px";
+						avatarVideo.style.maxWidth = tableScroll.parentNode.offsetWidth + "px";
+						avatarVideoDiv.style.height = "100px";
+						avatarVideoDiv.style.maxWidth = tableScroll.parentNode.offsetWidth + "px";
+						avatarVideoDiv.style.minHeight = "initial";
+						avatarVideoDiv.style.minWidth = "initial";
+						avatarVideoDiv.style.backgroundSize = "auto 100px";
+						avatarCanvas.style.height = "100px";
+						avatarCanvas.style.maxWidth = (tableScroll.parentNode.offsetWidth - 24) + "px";
+						avatarCanvasDiv.style.height = "100px";
+						avatarCanvasDiv.style.maxWidth = (tableScroll.parentNode.offsetWidth - 24) + "px";
+						avatarCanvasDiv.style.minHeight = "initial";
+						avatarCanvasDiv.style.minWidth = "initial";
+						avatarCanvasDiv.style.backgroundSize = "initial";
+					}
+				} else {
+					avatar.style.height = null;
+					avatar.style.maxWidth = null;
+					avatarVideo.style.height = null;
+					avatarVideo.style.maxWidth = null;
+					avatarVideoDiv.style.height = null;
+					avatarVideoDiv.style.maxWidth = null;
+					avatarVideoDiv.style.minHeight = null;
+					avatarVideoDiv.style.minWidth = null;
+					avatarVideoDiv.style.backgroundSize = null;
+					avatarCanvas.style.height = null;
+					avatarCanvas.style.maxWidth = null;
+					avatarCanvasDiv.style.height = null;
+					avatarCanvasDiv.style.maxWidth = null;
+					avatarCanvasDiv.style.minHeight = null;
+					avatarCanvasDiv.style.minWidth = null;
+					avatarCanvasDiv.style.backgroundSize = null;
+				}
+			
+			
+			if (reset) {
+				reset = false;
+				setTimeout(function() {
+					reset = true;
+					if (scroller != null) {
+						scroller.style.maxHeight = (tableScroll.parentNode.offsetHeight - 48) + "px";
+					}
+					
+						if (avatar.className == "avatar-big") {
+							var offest = (tableScroll.parentNode.offsetHeight - avatarStatus.offsetHeight - 52) + "px";
+							avatar.style.height = offest;
+							if (avatarCanvasDiv.style.display != "none") {
+								avatarVideo.style.height = offest;
+								avatarVideoDiv.style.height = offest;
+								avatarVideoDiv.style.backgroundSize = "auto " + "offest";
+								avatarCanvas.style.height = offest;
+								avatarCanvasDiv.style.height = offest;
+							}
+						}
+					
+				}, 100);
+			}
+		}
+		
+			window.onresize = resize;
+		
+		setTimeout(resize, 1000);
+	</script>
+
+
+	
+	</td></tr>
+	</table>
+
+
+
+
+</body>
+</html>
